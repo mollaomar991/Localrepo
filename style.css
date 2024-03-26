@@ -1,0 +1,5 @@
+p{
+    color: aqua;
+    flex-wrap: wrap-reverse;
+    animation-duration: calc(3);
+}
